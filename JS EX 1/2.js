@@ -19,4 +19,6 @@ const values = (value) => {
     value = word
     console.log(value)
 }
+
+
 members.map(values);

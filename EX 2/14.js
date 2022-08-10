@@ -15,6 +15,8 @@ console.log(result);
 
 // IN OBJECT
 
+
+
 const obj = [
     {
         id: 1,

@@ -16,3 +16,4 @@ console.log(obj2);
 const [, , ...rest] = members;
 
 console.log(rest);
+

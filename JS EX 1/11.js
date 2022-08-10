@@ -18,6 +18,8 @@ const { age: obj4 } = res4
 const { age: obj5 } = res5
 const { age: obj6 } = res6
 
+
+
 console.log(obj1)
 console.log(obj2)
 console.log(obj3)

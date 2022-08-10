@@ -9,5 +9,5 @@ const members = [
     { name: 'Yogesh Khatri', age: 51 }
 ]
 
-let u2 = _.find(members, (u) => { return u.age > 50 });
-console.log(u2);
+let val = _.find(members, (u) => { return u.age > 50 });
+console.log(val);

@@ -18,6 +18,7 @@ console.log(result)
 var result = { ...obj3 }
 console.log(result)
 
+
 var result = { ...obj4 }
 console.log(result)
 

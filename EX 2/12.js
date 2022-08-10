@@ -15,4 +15,6 @@ Object.keys(members).forEach(function (key) {
     obj.push(members[key].age)
 });
 
+
+
 console.log(...obj);

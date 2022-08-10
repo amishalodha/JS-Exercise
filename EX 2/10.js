@@ -13,6 +13,8 @@ const members = [
 
 
 
+
+
 var result = _.every(members, function (value) {
     console.log(value.name);
     console.log(value.age);

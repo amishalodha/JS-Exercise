@@ -10,9 +10,9 @@ const members = [
 ]
 
 var array = []
-var result = _.map(members, function get(value) {
-    if (value.age >= 41 && value.age <= 60) {
-        array.push(value)
+var result = _.map(members, function get(values) {
+    if (values.age >= 41 && values.age <= 60) {
+        array.push(values)
     }
 })
 console.log(array);

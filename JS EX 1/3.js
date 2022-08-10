@@ -16,3 +16,4 @@ const data = (output) => {
 }
 members.map(data)
 console.log(array);
+

@@ -14,8 +14,8 @@ const members = [
 
     { fname: 'yogesh', lname: 'khatri', age: 51 }];
 
-const userNames = _.map(members, user => {
+const userName = _.map(members, user => {
     return user.fname
 });
 
-console.log(userNames);
+console.log(userName);

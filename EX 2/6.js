@@ -25,9 +25,9 @@ var res = _.map(members, function get(value) {
 })
 
 
-var obj = {
+var objs = {
     'young': arr1,
     'old': arr2,
     'noage': arr3
 }
-console.log(obj);
+console.log(objs);

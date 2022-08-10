@@ -8,6 +8,8 @@ const members = [
     { name: 'Yogesh Khatri', age: 51 }
 ];
 
+
+
 const obj = members
 obj[2].Field = "Information technology"
 console.log(members);

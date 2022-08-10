@@ -9,7 +9,7 @@ const members = [
 ];
 
 var arr = []
-const val = (value) => {
+const values = (value) => {
     var names = value.name;
     const myArray = names.split(" ");
     let x = myArray[0]
@@ -19,4 +19,6 @@ const val = (value) => {
     value = word
     console.log(value)
 }
-members.map(val);
+
+
+members.map(values);

@@ -12,3 +12,4 @@ function getAvg(arr) {
     return (members.reduce((acc, { age }) => (acc + age), 0)) / arr.length;
 }
 console.log(getAvg(members));
+

@@ -10,8 +10,8 @@ const members = [
 ]
 
 
-var res = _.map(members, function get(value) {
-    var names = value.name
+var res = _.map(members, function get(values) {
+    var names = values.name
 
     let lastindex = names.split(' ')
     var x = lastindex[0];

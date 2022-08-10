@@ -17,4 +17,6 @@ Object.keys(members).forEach(function (key) {
     delete members[key].age;
 });
 
+
+
 console.log(members);

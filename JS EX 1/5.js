@@ -11,3 +11,4 @@ const result = Object.keys(members).reduce((acc, curr) =>
     acc.age ? (members[curr].age > acc.age ? members[curr] : acc) : members[curr], {});
 
 console.log(result)
+

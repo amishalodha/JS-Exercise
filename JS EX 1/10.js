@@ -11,3 +11,4 @@ const members = [
 const [...rest] = members;
 
 console.log(rest);
+

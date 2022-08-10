@@ -10,9 +10,9 @@ const members = [
     { name: 'Yogesh Khatri', age: 51 }
 ]
 
-var avg = _.mean([20, 40, 41, 17, 45, 51]);
+var avgs = _.mean([20, 40, 41, 17, 45, 51]);
 
-console.log(avg);
+console.log(avgs);
 
 
 
